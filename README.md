@@ -37,7 +37,7 @@ Add the configuration variables in the `.env` file to suit your environment and 
 ## Dependencies
 
 - [Express](https://expressjs.com): Web application framework for Node.js.
-- [Other dependencies]: List any other important dependencies.
+- [Cloudinary](https://cloudinary.com/): cloud-based media management platform that helps businesses store, optimize, and deliver images and videos across the web.
 
 ## Scripts
 
