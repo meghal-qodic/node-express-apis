@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "arrowParens": "always",
+  "space-before-function-paren": true
+}
